@@ -1,0 +1,23 @@
+{
+  "name": "beginner-javascript",
+  "version": "1.0.0",
+  "description": "Starter Files and Solutions for the BeginnerJavaScript.com Course",
+  "main": "debugging.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesbos/beginner-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesbos/beginner-javascript/issues"
+  },
+  "homepage": "https://github.com/wesbos/beginner-javascript#readme",
+  "scripts": {
+    "start": "node C:\\Users\\HP\\Desktop\\Program\\wep\\JavaScript\\beginner-javascript-master\\beginner-javascript-master\\HTML\\debugging.js"
+  },
+  "dependencies": {
+    "eslint-config-wesbos": "^4.0.1"
+  },
+  "devDependencies": {}
+}
